@@ -1,0 +1,6 @@
+{
+  "name": "SecureTech Electronics",
+  "description": "Ecommerce website for secure electronics featuring live product inventory management and direct WhatsApp Buy Now checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
